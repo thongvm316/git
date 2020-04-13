@@ -14,10 +14,3 @@ if (condition) {
 items.reduce​Right((accumulator, currentValue) => {
     return 
 });
-
-class name {
-    constructor (params) {
-        
-    }
-
-    }
