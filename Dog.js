@@ -10,3 +10,7 @@ if (condition) {
 } else {
     
 }
+
+items.reduce​Right((accumulator, currentValue) => {
+    return 
+});
