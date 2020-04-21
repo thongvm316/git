@@ -1,6 +1,3 @@
-class name {
-    constructor (params) {
-        
-    }
-
-    }
+(params) => {
+    
+}
