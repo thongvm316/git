@@ -28,4 +28,16 @@ class Dog extends Component {
     }
 }
 
+const {propertyName} = objectToDestruct;
+
+items.reduce​Right((accumulator, currentValue) => {
+    return 
+});
+
+items.reverse();
+
+items.sort((firstEl, secondEl) => {
+    
+});
+
 export default Dog;
